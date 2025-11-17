@@ -15,15 +15,16 @@ struct ContentView: View {
                     HomeView()
                 }
                 Tab("Findings", systemImage: "binoculars") {
-                    
+                    FindingsView()
                 }
                 Tab("Camera", systemImage: "camera") {
                     CameraView()
                 }
                 Tab("Goals", systemImage: "shield") {
-                    
+                    GoalsView()
                 }
                 Tab("Challenges", systemImage: "checkmark") {
+                    ChallengesView()
                 }
             }
             .tint(.green)
