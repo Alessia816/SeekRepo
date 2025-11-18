@@ -13,12 +13,12 @@
  - UI Accuracy: Designed to closely follow the Seek app's home screen layout and interactions.
  
  
- #Future improvements
+ # Future improvements
  
  - Integration with real observation data.
  
  - Camera integration for capturing observations directly within the app.
  
- - Species recognition with CoreML to identify organisms from camera inpu.
+ - Species recognition with CoreML to identify organisms from camera input.
  
  - Additional screens inspired by Seek.
